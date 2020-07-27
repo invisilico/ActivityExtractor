@@ -4,7 +4,7 @@ Android phone App Activity Data Extractor made during SRBR ChronoSchool 2020.
 Extraction and Basic visualisation (raster plots) from My Activity.json file provided by https://takeout.google.com/
 
 Open the colab if you know what you're doing:                   
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](link)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/invisilico/ActivityExtractor/blob/master/Activity_Extractor.ipynb)
 
 OR, follow the instructions:
 
@@ -24,6 +24,6 @@ Save the "My Activity.json" file in a suitable location, for your convenience.
 
 You're all set to go! Head to the notebook linked below to continue!
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](link)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/invisilico/ActivityExtractor/blob/master/Activity_Extractor.ipynb)
 
 Note: This data file will never go any further than your own google drive. The final CSV shared has limited data, and there is complete flexibility to clean the dataset within the colab notebook.
