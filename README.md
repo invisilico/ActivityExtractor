@@ -27,8 +27,8 @@ Download the compressed archive. Once Downloaded, unzip/decompress the file. Fro
 
 Save the "My Activity.json" file in a suitable location, for your convenience. 
 
-You're all set to go! Head to the notebook linked below to continue!
+You're all set to go! Choose one of the notebooks linked below to continue!
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/invisilico/ActivityExtractor/blob/master/Activity_Extractor.ipynb)
+ActivityExtractor: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/invisilico/ActivityExtractor/blob/master/Activity_Extractor.ipynb)
 
-Note: This data file will never go any further than your own google drive. The final CSV shared has limited data, and there is complete flexibility to clean the dataset within the colab notebook.
+RAPIDExtractor: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/invisilico/ActivityExtractor/blob/master/Rapid_Extractor.ipynb)
