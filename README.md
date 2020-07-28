@@ -3,8 +3,13 @@ Android phone App Activity Data Extractor made during SRBR ChronoSchool 2020.
 
 Extraction and Basic visualisation (raster plots) from My Activity.json file provided by https://takeout.google.com/
 
-Open the colab if you know what you're doing:                   
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/invisilico/ActivityExtractor/blob/master/Activity_Extractor.ipynb)
+Full version includes data cleaning utilities and more complex options to deal with the dataset in a step by step manner. A raster plot utility is also provided to visualize the data. This lets you make full use of the data, including dataframe queries and keeping appnames (removed optionally in privacy). RAPID version is a single cell version, should you be short on time and need the files ready with optimised presets.(just time stamps in preset months, with no app names). Both notebooks need you to first folow the tutorial below and obtain the 'My Activity.json' file from Google Takeout.
+
+Open the notebook now if you know what you're doing:
+
+ActivityExtractor: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/invisilico/ActivityExtractor/blob/master/Activity_Extractor.ipynb)
+
+RAPIDExtractor: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/invisilico/ActivityExtractor/blob/master/Rapid_Extractor.ipynb)
 
 OR, follow the instructions:
 
