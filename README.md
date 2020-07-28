@@ -12,7 +12,7 @@ To obtain Android app activity data:
 
 Visit https://takeout.google.com/ and ensure you are signed into the same account as the primary one on your android phone. 
 
-Under "Select data to include", first click on "Deselect all". One of the options as you scroll down will be "My Activity" under which two buttons are present. Click the second: "All activity data included" button and in the pop up menu, first select "Deselect all" and then check "Android" and say "Ok". Then click the "Multiple formats" button to the left and in the pop-up, on the Activity Records field (top right dropdown) click on the "HTML" to reveal the option for JSON. Select JSON and click "Ok". 
+Under "Select data to include", first click on "Deselect all". One of the options as you scroll down will be "My Activity" under which two buttons are present. Click the second button that currently says "All activity data included" and in the menu that pops up, first select "Deselect all" and then check "Android" and say "Ok". The button should now say "1 product selected". Then click the "Multiple formats" button to the left and in the pop-up, on the Activity Records field (top right dropdown) click on the "HTML" to reveal the option for JSON. Select JSON and click "Ok".
 
 Scroll down, click on "Next step" and in the following options set: "Send download link via mail", "Export once" and .zip or .tgz on personal preference. The last field can be left as is as the JSON file should not be too large (mine was <10MB)
 
