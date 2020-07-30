@@ -41,9 +41,9 @@ Scroll down, click on "Next step" and in the following options set: "Send downlo
 
 The Link should soon appear in your e-mail!
 
-![Screenshot from 2020-07-30 09-45-12](https://user-images.githubusercontent.com/68754864/88880398-44171e00-d24a-11ea-96fa-98b499d46fb8.png)
+![Screenshot from 2020-07-30 10-03-20](https://user-images.githubusercontent.com/68754864/88881052-fdc2be80-d24b-11ea-9870-20765ac47ffc.png)
 
-or should you stay on the page, head to "manage exports" and an option to download will appear.
+Should you stay on the page, head to "manage exports" and an option to download will appear.
 
 ![Screenshot from 2020-07-30 09-45-52](https://user-images.githubusercontent.com/68754864/88880400-44afb480-d24a-11ea-97f3-f4459b817db5.png)
 
