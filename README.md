@@ -21,7 +21,7 @@ Visit https://takeout.google.com/ and ensure you are signed into the same accoun
 
 Under "Select data to include", first click on "Deselect all". 
 
-![Screenshot from 2020-07-30 09-42-35](https://user-images.githubusercontent.com/68754864/88880390-41b4c400-d24a-11ea-9a0c-a46e4fa0181c.png)
+![Screenshot from 2020-07-30 10-00-05](https://user-images.githubusercontent.com/68754864/88880884-88ef8480-d24b-11ea-8a99-f07da6793148.png)
 
 One of the options as you scroll down will be "My Activity" under which two buttons are present. Select (checkbox) this option.
 
