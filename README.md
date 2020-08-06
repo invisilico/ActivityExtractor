@@ -3,6 +3,9 @@ Android phone App Activity Data Extractor made during SRBR ChronoSchool 2020.
 
 Extraction and Basic visualisation (raster plots) from My Activity.json file provided by https://takeout.google.com/
 
+### Note for chronoschool students:
+Use the JSON version! The csv from the HTML version is not currently supported in the shiny web app!
+
 Full version includes data cleaning utilities and more complex options to deal with the dataset in a step by step manner. A raster plot utility is also provided to visualize the data. This lets you make full use of the data, including dataframe queries and keeping appnames (removed optionally in privacy). RAPID version is a single cell version, should you be short on time and need the files ready with optimised presets.(just time stamps in preset months, with no app names). Both notebooks need you to first folow the tutorial below and obtain the 'My Activity.json' file from Google Takeout.
 
 ### Open the notebook now if you know what you're doing:
@@ -10,6 +13,8 @@ Full version includes data cleaning utilities and more complex options to deal w
 ActivityExtractor: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/invisilico/ActivityExtractor/blob/master/Activity_Extractor.ipynb)
 
 RAPIDExtractor: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/invisilico/ActivityExtractor/blob/master/Rapid_Extractor.ipynb)
+
+HTMLExtractor: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/invisilico/ActivityExtractor/blob/master/HTML_Extractor.ipynb)
 
 OR, follow the instructions:
 
@@ -31,7 +36,8 @@ Click the second button that currently says "All activity data included" and in 
 
 ![Screenshot from 2020-07-30 09-43-58](https://user-images.githubusercontent.com/68754864/88880393-424d5a80-d24a-11ea-94c2-d8a60ab7e1b2.png)
 
-Then click the "Multiple formats" button to the left and in the pop-up, on the Activity Records field (top right dropdown) click on the "HTML" to reveal the option for JSON. Select JSON and click "Ok".
+For JSON: click the "Multiple formats" button to the left and in the pop-up, on the Activity Records field (top right dropdown) click on the "HTML" to reveal the option for JSON. Select JSON and click "Ok".
+For HTML: leave as is with HTML.
 
 ![Screenshot from 2020-07-30 09-44-34](https://user-images.githubusercontent.com/68754864/88880394-42e5f100-d24a-11ea-889e-e0d73d35935f.png)
 
@@ -59,3 +65,5 @@ You're all set to go! Choose one of the notebooks linked below to continue!
 ActivityExtractor: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/invisilico/ActivityExtractor/blob/master/Activity_Extractor.ipynb)
 
 RAPIDExtractor: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/invisilico/ActivityExtractor/blob/master/Rapid_Extractor.ipynb)
+
+HTMLExtractor: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/invisilico/ActivityExtractor/blob/master/HTML_Extractor.ipynb)
