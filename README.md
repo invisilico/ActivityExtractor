@@ -37,6 +37,7 @@ Click the second button that currently says "All activity data included" and in 
 ![Screenshot from 2020-07-30 09-43-58](https://user-images.githubusercontent.com/68754864/88880393-424d5a80-d24a-11ea-94c2-d8a60ab7e1b2.png)
 
 For JSON: click the "Multiple formats" button to the left and in the pop-up, on the Activity Records field (top right dropdown) click on the "HTML" to reveal the option for JSON. Select JSON and click "Ok".
+
 For HTML: leave as is with HTML.
 
 ![Screenshot from 2020-07-30 09-44-34](https://user-images.githubusercontent.com/68754864/88880394-42e5f100-d24a-11ea-889e-e0d73d35935f.png)
