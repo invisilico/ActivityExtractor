@@ -14,7 +14,7 @@ ActivityExtractor: [![Open In Colab](https://colab.research.google.com/assets/co
 
 RAPIDExtractor: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/invisilico/ActivityExtractor/blob/master/Rapid_Extractor.ipynb)
 
-HTMLExtractor: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/invisilico/ActivityExtractor/blob/master/HTML_Extractor.ipynb)
+HTML Extractor: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/invisilico/ActivityExtractor/blob/master/HTML_Extractor.ipynb)
 
 OR, follow the instructions:
 
@@ -66,4 +66,4 @@ ActivityExtractor: [![Open In Colab](https://colab.research.google.com/assets/co
 
 RAPIDExtractor: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/invisilico/ActivityExtractor/blob/master/Rapid_Extractor.ipynb)
 
-HTMLExtractor: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/invisilico/ActivityExtractor/blob/master/HTML_Extractor.ipynb)
+HTML Extractor: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/invisilico/ActivityExtractor/blob/master/HTML_Extractor.ipynb)
