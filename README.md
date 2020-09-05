@@ -1,5 +1,5 @@
 # ActivityExtractor
-Android phone App Activity Data Extractor made during SRBR ChronoSchool 2020.
+Android phone App Activity Data Extractor made for SRBR ChronoSchool 2020.
 
 Extraction and Basic visualisation (raster plots) from My Activity.json file provided by https://takeout.google.com/
 
