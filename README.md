@@ -3,7 +3,7 @@ Android phone App Activity Data Extractor made for SRBR ChronoSchool 2020.
 
 Extraction and Basic visualisation (raster plots) from My Activity.json file provided by https://takeout.google.com/
 
-### Use the HTML version! No hassle with timezones there!
+This github repository is intentionally left unlicensed and the author does not allow for reproduction or usage of the code without explicit consent being granted. Please contact me (raise an issue, twitter or email) if you would like to use it for any purpose.
 
 Full version(s) includes data cleaning utilities and more complex options to deal with the dataset in a step by step manner. A raster plot utility is also provided to visualize the data. This lets you make full use of the data, including dataframe queries and keeping appnames (removed optionally in privacy). RAPID version is a single cell version, should you be short on time and need the files ready with optimised presets.(just time stamps in preset months, with no app names). Both notebooks need you to first folow the tutorial below and obtain the 'My Activity.json' file from Google Takeout.
 
