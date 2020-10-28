@@ -9,7 +9,7 @@ Full version(s) includes data cleaning utilities and more complex options to dea
 
 ### Open the notebook now if you know what you're doing:
 
-HTML Extractor: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/invisilico/ActivityExtractor/blob/master/HTML_Extractor.ipynb) (Full version, HTML)
+HTML Extractor: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/invisilico/ActivityExtractor/blob/master/HTML_extractor.ipynb) (Full version, HTML)
 
 ActivityExtractor: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/invisilico/ActivityExtractor/blob/master/Activity_Extractor.ipynb) (Full Version, JSON)
 
